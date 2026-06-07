@@ -1,5 +1,5 @@
 # ADF_Project
-# ✈️ ADF Aviation Data Pipeline Project
+# ADF Aviation Data Pipeline Project
 
 A full end-to-end Azure Data Factory (ADF) pipeline project for ingesting, transforming, and serving aviation data across Bronze, Silver, and Gold layers using the **Medallion Architecture**.
 
@@ -279,6 +279,6 @@ API Data (REST)
 
 ---
 
-## 👤 Author
+##  Author
 
 Developed as part of an end-to-end Azure Data Engineering project covering on-prem ingestion, API ingestion, incremental loading, and Medallion Architecture transformation using Azure Data Factory.
