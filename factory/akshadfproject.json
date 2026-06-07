@@ -1,0 +1,15 @@
+{
+	"name": "akshadfproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a77dcc30-2645-443b-8b49-e9b381b1db31",
+		"tenantId": "da606345-90ba-46db-aa7b-ca7a529324aa"
+	}
+}

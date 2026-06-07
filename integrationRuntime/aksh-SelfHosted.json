@@ -1,0 +1,6 @@
+{
+	"name": "aksh-SelfHosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
